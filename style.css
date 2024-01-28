@@ -10,6 +10,7 @@ html {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   background-color: rgb(78, 78, 180);
+  /* overflow: hidden; */
 }
 
 #container {
@@ -49,4 +50,14 @@ h3{
     left: 40%;
     border-radius: 5px;
     padding: 2px;
+    background-color: rgb(220, 55, 88);
+}
+
+footer{
+  /* height: 10%;
+  width: 20%; */
+  text-align: center;
+  position: relative;
+  bottom: 21%;
+  /* background-color: blue; */
 }
